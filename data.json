@@ -1,17 +1,197 @@
 {
-  "2f3df59458f3fbdb3f3e7ea40d21e8d1": {
+  "30a2c1fad56feaeb9163dba91eb6fbe3": {
+    "f": "Guerra Gómez",
+    "nj": 2,
+    "j": 0
+  },
+  "74ca484258744de6e99b4a3c8beef0a1": {
+    "f": "Peter Guerra",
+    "nj": 2,
+    "j": 0
+  },
+  "e3bd7965cded29927b7659328859ba28": {
+    "f": "Guerra Herrera",
+    "nj": 2,
+    "j": 1
+  },
+  "01e8cb563740c3cd561cde15461cfe2b": {
+    "f": "Roldan Guerra",
+    "nj": 2,
+    "j": 1
+  },
+  "de49b6e04336389761d965b39843771d": {
+    "f": "Gómez Girón",
+    "nj": 3,
+    "j": 0
+  },
+  "242a2dd1312aba989482263717a4c50b": {
+    "f": "Gómez Cruz",
+    "nj": 2,
+    "j": 1
+  },
+  "f0fc3d93d3d7825ccd7d8d118ddce461": {
+    "f": "Najera Gómez",
+    "nj": 1,
+    "j": 1
+  },
+  "18f62ba48e6e991b69815b1d10f62ce3": {
+    "f": "Najera Davila",
+    "nj": 2,
+    "j": 2
+  },
+  "6ceee5b8572eec79609af4addf73374e": {
+    "f": "Caletty Gómez",
+    "nj": 1,
+    "j": 2
+  },
+  "4d3d908aa22ce8447fcb8db3e8880ffb": {
+    "f": "Pilar Caletty",
+    "nj": 2,
+    "j": 0
+  },
+  "14231d3f0e9c717ece386e9f9b1747e9": {
+    "f": "Brayan",
+    "nj": 3,
+    "j": 3
+  },
+  "2e7b1e935f3945bd190a13054ceccd44": {
+    "f": "Mary",
+    "nj": 1,
+    "j": 0
+  },
+  "d8f88f0c750d1099b93d8c5b9f64bd68": {
+    "f": "Javier",
+    "nj": 1,
+    "j": 0
+  },
+  "8740281845d937239128ebf687289488": {
+    "f": "Julia",
+    "nj": 2,
+    "j": 0
+  },
+  "a31a74a9ec86ef2c8f73d69b19314105": {
+    "f": "Doña Vita",
+    "nj": 6,
+    "j": 1
+  },
+  "ac2e52d05a547d4db474cbd099c630fd": {
+    "f": "Jonathan Pimentel",
+    "nj": 2,
+    "j": 0
+  },
+  "58cad45bc36188fb984cfb4e8b146d09": {
     "f": "Gómez Herrera",
     "nj": 2,
     "j": 1
   },
-  "d41d8cd98f00b204e9800998ecf8427e": {
-    "f": "Pérez",
+  "960c022d89f4371b7e497dd7faee3a92": {
+    "f": "Muñiz Revolorio",
+    "nj": 2,
+    "j": 0
+  },
+  "9fb6f6614f23fe8d0892ec112cd9cd4d": {
+    "f": "Muñiz Zam",
+    "nj": 2,
+    "j": 0
+  },
+  "8bda0e84734ddca8d7c5a246f3fc8213": {
+    "f": "Muñiz Grajeda",
+    "nj": 6,
+    "j": 0
+  },
+  "defc60b2368fd674813294f3fd286df2": {
+    "f": "Herrara Muñiz",
+    "nj": 3,
+    "j": 0
+  },
+  "8ebfc555b37ee79cd4eded4278ed5897": {
+    "f": "Muñiz Ruiz",
+    "nj": 2,
+    "j": 2
+  },
+  "37c942b2ebf3420534c27190271cf838": {
+    "f": "Muñiz Miranda",
+    "nj": 2,
+    "j": 3
+  },
+  "fe00a179bd24e9beaa5959a2c43a661d": {
+    "f": "Carlo Andre",
     "nj": 1,
     "j": 0
   },
-  "8b1a9953c4611296a827abf8c47804d7": {
-    "f": "Familia Rodríguez",
+  "a17f0b28d4bfcfeccdf46e6af811fcf3": {
+    "f": "Castillo Muñiz",
     "nj": 3,
+    "j": 0
+  },
+  "a43a94f0f1ae636575cd4b4bdf2e541e": {
+    "f": "Cruz Castillo",
+    "nj": 3,
+    "j": 0
+  },
+  "275c230fa51d0066c8855e8cc0980fc6": {
+    "f": "Herrera Rivas",
+    "nj": 3,
+    "j": 0
+  },
+  "7500a4fad69789c0d4391f5aaf9c78e9": {
+    "f": "Lopez Cana",
+    "nj": 3,
+    "j": 2
+  },
+  "f60cd76c2cda7cbf1630f3f7b9fa0db9": {
+    "f": "Morales",
+    "nj": 3,
+    "j": 0
+  },
+  "fac95fdecde46a6d43c02ff71e9e30d9": {
+    "f": "Amado Lopez",
+    "nj": 2,
+    "j": 0
+  },
+  "0f8c0edd0166c1a426aed0d838a1f3ad": {
+    "f": "Klein Herrera",
+    "nj": 2,
+    "j": 2
+  },
+  "67adeec68375845fed3cf7c20b422b9d": {
+    "f": "Zuleta Makepeace",
+    "nj": 4,
+    "j": 0
+  },
+  "ead2cea7bf0df50afa28965270f0821a": {
+    "f": "Janette de Al",
+    "nj": 1,
+    "j": 0
+  },
+  "adb555b29a7390431550193f2b794941": {
+    "f": "Seño Mariela",
+    "nj": 3,
+    "j": 1
+  },
+  "f33d4e9b624f10df8355d536f14cae34": {
+    "f": "Seño kiki",
+    "nj": 1,
+    "j": 0
+  },
+  "3350fb8ccac24d083fb3bcb3ae11f467": {
+    "f": "Wendy López",
+    "nj": 2,
+    "j": 2
+  },
+  "9fe5102f6e9fa09052f828ab2f0c981d": {
+    "f": "Porras Herrera",
+    "nj": 3,
+    "j": 0
+  },
+  "773fba96ffc8d7215cd3403eee350b0f": {
+    "f": "Porras Recinos",
+    "nj": 2,
+    "j": 2
+  },
+  "cc48f4a4277c6b0e0fde85015a7de7a3": {
+    "f": "Reyes Porras",
+    "nj": 2,
     "j": 2
   }
 }
